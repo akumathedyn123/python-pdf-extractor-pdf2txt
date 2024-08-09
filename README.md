@@ -18,7 +18,7 @@ This Python script efficiently extracts text content from multiple PDF files wit
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/akumathedynd/pdf_extractor-pdf2txt.git
+   git clone https://github.com/akumathedyn123/python-pdf-extractor-pdf2txt.git
    ```
 
 2. **Navigate to the Project Directory:**
