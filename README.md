@@ -2,7 +2,7 @@
 
 This Python script efficiently extracts text content from multiple PDF files within a designated folder and saves the extracted text as separate TXT files with the same name as the original PDFs (excluding the ".pdf" extension).
 
-### Features
+### Features 
 
 * Processes multiple PDFs in a single run.
 * Preserves the original file structure for easy identification.
